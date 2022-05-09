@@ -2,7 +2,7 @@
 #### Napisal:
 - Mitjak
 
-##### _____________________________________________________________________________________________________________________________________________________________
+##### _________________________________________________________________________________________________
 1. Kaj pomeni beseda romantika? `prvič so jo uporabljali v književnosti, izhaja iz besede roman.`                                                          
 2. Časovno opredli obdobje romantike v glasbeni umetnosti `celotno 19.stol in del 20.`                                                                                   
 3. Opiši značilnosti glasbe v romantiki. `Je nekaj izmišljenega,lepega..`                                                              
@@ -40,9 +40,9 @@
 27. Kako se imenuje Verdijeva prva opera, ki jo je napisal? `Oberto`
 28. Kako se imenuje programska skladba za orkester v enem stavku? `Simfonična pesnitev`
 29. Kaj je rekviem? `Maša za umrle,ljudi z ustaljenim besedilom v latinskem jeziku`                                           
-30. Predstavnik kakšne glasbe je Johannes Brahms? `Absolutne`                                                                
-31:
+30. Predstavnik kakšne glasbe je Johannes Brahms? `Absolutne`                                                         
+31. Vprašanja:
 - Kaj je opera buffa? `Je italjanska opera z komično vsebino`                           
 - Kaj je opera seria? `Je opera z resno in dramatično vsebino`  
-##### _____________________________________________________________________________________________________________________________________________________________                                    
+#####  _________________________________________________________________________________________________                                   
  
