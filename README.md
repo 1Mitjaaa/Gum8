@@ -1,8 +1,12 @@
 ## Vprašanja z odgovori za ponavljanje in utrjevanje
 #### Napisal:
 - Mitjak
+```diff
+@@ V primero če je kaj narobe napišite Mitjako. @@
+```
 
-##### _________________________________________________________________________________________________
+
+##### ___________________________________________
 1. Kaj pomeni beseda romantika? `prvič so jo uporabljali v književnosti, izhaja iz besede roman.`                                                          
 2. Časovno opredli obdobje romantike v glasbeni umetnosti `celotno 19.stol in del 20.`                                                                                   
 3. Opiši značilnosti glasbe v romantiki. `Je nekaj izmišljenega,lepega..`                                                              
@@ -44,5 +48,5 @@
 31. Vprašanja:
 - Kaj je opera buffa? `Je italjanska opera z komično vsebino`                           
 - Kaj je opera seria? `Je opera z resno in dramatično vsebino`  
-#####  _________________________________________________________________________________________________                                   
+##### ___________________________________________                                 
  
