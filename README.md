@@ -23,7 +23,7 @@
 16. Kateri skladatelj ponovno odkrije glasbo Johana Sebastiana Bacha? `Felix Mendelssohn Bartholdy`                                  
 17. Kaj je napisal Felix Mendelssohn Bartholdy? `Sen kresne noči,poročna končnica,sonate...`
 18. Kaj je koncertna uvetura? `Je samostojno glasbeno delo,ki ima praviloma programski vsebino,podobna je simfonični pesnitvi le da ima strožno obliko večinoma sonatno`
-19. Kateri poljski skladatelj v zgodovini glasbe zapisan kot mojster klavirskih skladb in poet klavirja? `F.Chopin                          
+19. Kateri poljski skladatelj v zgodovini glasbe zapisan kot mojster klavirskih skladb in poet klavirja? `F.Chopin `                         
 20. Naštej Chopinove miniature in jih kratko opiši.
  - Poloneza: `polski ples mirnega tempa`
  - Mazurka: `polski ljudski ples`
